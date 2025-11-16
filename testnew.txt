@@ -1,0 +1,1 @@
+test the git pull and git push instead of doing git push origin master or git pull origin master
