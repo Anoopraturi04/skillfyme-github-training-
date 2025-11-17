@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: app1-config
+data:
+  APP_MODE: "production"
+  APP_VERSION: "v1.0"
+  DB_HOST: "mysql-service"
+
