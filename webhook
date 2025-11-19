@@ -1,0 +1,1 @@
+set up  a webohook trigger on github, so that if any event occur in github repo this sent a trigger to jenkins to notify that some event is occured, and on jenkin we have set the github hoook trigger for GITScm polling to maker a connection between github and jenkins and it will start or execute the jenkins job   
